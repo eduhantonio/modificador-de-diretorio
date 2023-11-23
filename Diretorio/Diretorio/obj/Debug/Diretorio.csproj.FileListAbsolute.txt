@@ -1,0 +1,10 @@
+C:\Users\aluno_lab4\Desktop\Eduvasco\Diretorio\Diretorio\bin\Debug\Diretorio.exe.config
+C:\Users\aluno_lab4\Desktop\Eduvasco\Diretorio\Diretorio\bin\Debug\Diretorio.exe
+C:\Users\aluno_lab4\Desktop\Eduvasco\Diretorio\Diretorio\bin\Debug\Diretorio.pdb
+C:\Users\aluno_lab4\Desktop\Eduvasco\Diretorio\Diretorio\obj\Debug\Diretorio.csproj.AssemblyReference.cache
+C:\Users\aluno_lab4\Desktop\Eduvasco\Diretorio\Diretorio\obj\Debug\Diretorio.Form1.resources
+C:\Users\aluno_lab4\Desktop\Eduvasco\Diretorio\Diretorio\obj\Debug\Diretorio.Properties.Resources.resources
+C:\Users\aluno_lab4\Desktop\Eduvasco\Diretorio\Diretorio\obj\Debug\Diretorio.csproj.GenerateResource.cache
+C:\Users\aluno_lab4\Desktop\Eduvasco\Diretorio\Diretorio\obj\Debug\Diretorio.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\Desktop\Eduvasco\Diretorio\Diretorio\obj\Debug\Diretorio.exe
+C:\Users\aluno_lab4\Desktop\Eduvasco\Diretorio\Diretorio\obj\Debug\Diretorio.pdb
